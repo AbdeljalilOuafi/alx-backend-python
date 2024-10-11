@@ -2,7 +2,7 @@
 """5-sum_list module"""
 
 
-def sum_list(input_list: list[float]):
+def sum_list(input_list: list[float]) -> float:
     """
     Returns the sum of a list of floats.
 
